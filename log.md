@@ -18,3 +18,12 @@ https://www.freecodecamp.org/portfolio/nicolastrand
 **Thoughts:** I got stuck for ages on the escape sequence in strings part, which I found frustrating as I'm sure I followed the instructions carefully. Little deflated as I hate admitting defeat, but these things take time.
 
 **Link to work:** on https://freecodecamp.com/nicolastrand
+
+### Day 3: May 31
+
+**Today's Progress**: Thanks to the help of the FCC community, I figured out the problem I had yesterday and I've definitely learnt something. Need to keep an eye on the details. I only did 35 minutes tonight as I have been working since 8am this morning and my brain is mush, but I figured better 35 minutes of code than nothing and risk slipping off the bandwagon.
+
+**Thoughts:**: Impatient. I mean, I feel better than I did yesterday about it - I guess the fresh(ish) mind to it helped. I'm really looking forward to starting on the stuff that'll help me with web analytics but it's so far away in the curriculum - must practice my patience!
+
+**Link to work:** on https://freecodecamp.com/nicolastrand
+
