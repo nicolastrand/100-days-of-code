@@ -27,3 +27,11 @@ https://www.freecodecamp.org/portfolio/nicolastrand
 
 **Link to work:** on https://freecodecamp.com/nicolastrand
 
+### Day 4: June 01
+
+**Today's Progress**: Learnt about indexes and arrays tonight, although had to stop as one of the tests is buggy. Thankfully was at the end of my hour, but I hope it's resolved by tomorrow so I can progress. I've also downloaded VS Coder so I can start to do stuff in situ, although I'll need tutorials. If FreeCodeCamp is still buggy tomorrow I'll look at VS Coder tutorials.
+
+**Thoughts:**: Positive. One thing I'd like to see on FreeCodeCamp is examples of when these sorts of JavaScript would be used - the HTML practice was useful with the interactive Cat Photo App, not sure if something similar could be done for JS? Still, nothing better than my own project although I feel I still have a long way to go.
+
+**Link to work:** on https://freecodecamp.com/nicolastrand
+
