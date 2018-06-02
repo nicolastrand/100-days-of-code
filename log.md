@@ -35,3 +35,11 @@ https://www.freecodecamp.org/portfolio/nicolastrand
 
 **Link to work:** on https://freecodecamp.com/nicolastrand
 
+### Day 5: June 02
+
+**Today's Progress**: FreeCodeCamp forum to the rescue again - had to adjust something above the line `"change your code below this line"` part to progress. But my code was right - woohoo!
+
+**Thoughts:**: Positive, but feel I have a long way to go in terms of getting it engrained in my head. Practice will make perfect, but I'm soooo impatient! Also realised tonight why headphones and white noise are so useful - coding + distractions do not mmix!
+
+**Link to work:** on https://freecodecamp.com/nicolastrand
+
