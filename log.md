@@ -43,3 +43,11 @@ https://www.freecodecamp.org/portfolio/nicolastrand
 
 **Link to work:** on https://freecodecamp.com/nicolastrand
 
+
+### Day 6: June 03
+
+**Today's Progress**: Tonight was a mix of moving forward, and starting to revise old modules. Got to lesson 53 where I needed to call upon stuff I'd already done, but I've already forgotten some so will go back and redo those so it sticks easier in my head. I also visited a Slack group where tag management is discussed a lot - can already find I understand even teeny bits of the code that's pasted, which is a good sign of progress. Also good to read about JS in situ.
+
+**Thoughts:**: In all honesty, I was incredibly frustrated tonight. I had to get hints/help three lessons in a row as I got very stuck, particularly on lesson 53. But it's all part of the learning curve - some days I'll have bad days, and other days I'll make progress. Like with everything there'll come a time where things just click - but it's a long way away, understandably. Even when I don't feel like coding I will make myself push on - otherwise the habit will be broken and all my progress lost. 
+
+**Link to work:** on https://freecodecamp.com/nicolastrand
