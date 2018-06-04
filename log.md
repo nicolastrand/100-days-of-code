@@ -51,3 +51,12 @@ https://www.freecodecamp.org/portfolio/nicolastrand
 **Thoughts:**: In all honesty, I was incredibly frustrated tonight. I had to get hints/help three lessons in a row as I got very stuck, particularly on lesson 53. But it's all part of the learning curve - some days I'll have bad days, and other days I'll make progress. Like with everything there'll come a time where things just click - but it's a long way away, understandably. Even when I don't feel like coding I will make myself push on - otherwise the habit will be broken and all my progress lost. 
 
 **Link to work:** on https://freecodecamp.com/nicolastrand
+
+
+### Day 7: June 04
+
+**Today's Progress**: Today I got to tackle Booleans, (in)equality operators and started on `if` statements, which I remember from Codecademy. Without wanting to sound arrogant, I flew through these - very logical, it reminded me of creating lookups in Excel. I got far today, although frustrating that my WiFi connection went down in the middle of my flow! 
+
+**Thoughts:**: Massive confidence boost in comparison to yesterday's frustration. Maybe I'm more natural at this part of JavaScript? It's so logical to me. Gives me confidence that I'll get better with the other parts - all I need to do is practice. I think I even know when I would use this sort of command - six months ago I wouldn't have had a clue so I _am_ getting better, even if it's not obvious at the time.
+
+**Link to work:** on https://freecodecamp.com/nicolastrand
