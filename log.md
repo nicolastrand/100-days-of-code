@@ -60,3 +60,11 @@ https://www.freecodecamp.org/portfolio/nicolastrand
 **Thoughts:**: Massive confidence boost in comparison to yesterday's frustration. Maybe I'm more natural at this part of JavaScript? It's so logical to me. Gives me confidence that I'll get better with the other parts - all I need to do is practice. I think I even know when I would use this sort of command - six months ago I wouldn't have had a clue so I _am_ getting better, even if it's not obvious at the time.
 
 **Link to work:** on https://freecodecamp.com/nicolastrand
+
+### Day 8: June 05
+
+**Today's Progress**: More work on `if` statements, then moved onto `else if` statements. It makes sense, although you have to be so accurate - sometimes even the omission of something tiny will cause the entire thing to not work. Tomorrow I will be moving onto switch statements which, if I remember correctly, will be able to replace the more complex `else if` statements.
+
+**Thoughts:**: Feel about the same as yesterday about it. The more I do it, the more familiar I get (of course). Although I do tend to forget modules already covered, so I will take some time next tonight to revise a few modules I've already done, so I don't forget what certain functions do. All in all, feeling positive.
+
+**Link to work:** on https://freecodecamp.com/nicolastrand
