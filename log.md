@@ -68,3 +68,12 @@ https://www.freecodecamp.org/portfolio/nicolastrand
 **Thoughts:**: Feel about the same as yesterday about it. The more I do it, the more familiar I get (of course). Although I do tend to forget modules already covered, so I will take some time next tonight to revise a few modules I've already done, so I don't forget what certain functions do. All in all, feeling positive.
 
 **Link to work:** on https://freecodecamp.com/nicolastrand
+
+### Day 9: June 06
+
+**Today's Progress**: Learnt about switch statements, objects, properties ...got up to the "Accessing Object Properties with Variables" module before calling it a day after one hour, as my head was getting fried. Biggest progress was remembering operators earlier in the process AND writing a switch statement from scratch without the example shown on the left. Proves that knowledge is sinking in and I'm not just c & p-ing.
+
+**Thoughts:**: Positive! Also feel I'm starting to get to the parts which will really be useful for what I want to do with my career!
+
+**Link to work:** on https://freecodecamp.com/nicolastrand
+
