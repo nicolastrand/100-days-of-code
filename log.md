@@ -77,3 +77,10 @@ https://www.freecodecamp.org/portfolio/nicolastrand
 
 **Link to work:** on https://freecodecamp.com/nicolastrand
 
+### Day 10: June 07
+
+**Today's Progress**: Blergh. Had to refer to YouTube three times in four modules. Gave in 15 minutes early and asked the internet for help again. Back tomorrow.
+
+**Thoughts:**: Really frustrating. On days like this I feel like I'm never going to get it. Hopefully tomorrow will be clearer!
+
+**Link to work:** on https://freecodecamp.com/nicolastrand
