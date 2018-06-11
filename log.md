@@ -84,3 +84,11 @@ https://www.freecodecamp.org/portfolio/nicolastrand
 **Thoughts:**: Really frustrating. On days like this I feel like I'm never going to get it. Hopefully tomorrow will be clearer!
 
 **Link to work:** on https://freecodecamp.com/nicolastrand
+
+### Day 11: June 11
+
+**Today's Progress**: I'm back in it! Had to skip three days: two due to MeasureCamp planning/eventing and then a sick child yesterday, but back in the game tonight. Although today I didn't do freecodecamp, I instead played with GTM - this is the reason I want to learn JavaScript so I really hope that it still counts, even though I didn't do much 'actual' coding.
+
+**Thoughts:**: I feel so-so. I feel good in the sense that the JavaScript I have learnt so far is helping me make sense of what was before a massive chunk of gobbledegook, but not so good in the sense that I still don't properly get it. Still - practice makes perfect.
+
+**Link to work:** nicolastrand.com (this is my website, you can inspect the page to see where I've put the tags).
