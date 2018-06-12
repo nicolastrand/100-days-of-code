@@ -92,3 +92,11 @@ https://www.freecodecamp.org/portfolio/nicolastrand
 **Thoughts:**: I feel so-so. I feel good in the sense that the JavaScript I have learnt so far is helping me make sense of what was before a massive chunk of gobbledegook, but not so good in the sense that I still don't properly get it. Still - practice makes perfect.
 
 **Link to work:** nicolastrand.com (this is my website, you can inspect the page to see where I've put the tags).
+
+### Day 12: June 12
+
+**Today's Progress**: So today I revisited HTML and CSS as I want to start building my own forms. Got a couple of bootstrap templates and played around with the CSS in codepen - can't seem to get the font to a sans serif so will have to ask the internet for help there. Reason I want to do this is so I can practice my tag management in GTM.
+
+**Thoughts:**: Well, the coding I didn't do well on technically BUT I found that I can read the stylesheets so much better now - it's no longer just a whole ton of code I can't read. Surely that's progress, even if I've slowed down in my own coding? BUT BUT BUT. I was just able to build my very first tag in GTM which I have never done before!
+
+**Link to work:** nicolastrand.com (this is my website, you can inspect the page to see where I've put the tags). I'll start a project for a sign up form on Code Pen too at some point.
