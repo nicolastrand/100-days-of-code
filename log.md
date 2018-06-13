@@ -100,3 +100,11 @@ https://www.freecodecamp.org/portfolio/nicolastrand
 **Thoughts:**: Well, the coding I didn't do well on technically BUT I found that I can read the stylesheets so much better now - it's no longer just a whole ton of code I can't read. Surely that's progress, even if I've slowed down in my own coding? BUT BUT BUT. I was just able to build my very first tag in GTM which I have never done before!
 
 **Link to work:** nicolastrand.com (this is my website, you can inspect the page to see where I've put the tags). I'll start a project for a sign up form on Code Pen too at some point.
+
+### Day 13: June 13
+
+**Today's Progress**: Today, with the help of a YouTube tutorial and parts of a template I found online, I started a mini project on CodePen - a simple sign up form page. Only did the HTML and worked on my CSS, which to my surprise actually worked! Need to style more in the background but that part isn't important for what I want to do so I'll only do that if I need to (or if I feel like doing it for fun).
+
+**Thoughts:**: Feel good about this, actually! The next thing I want to do is to add one more box and a button which appears UNCHECKED. This means I will need to add some JavaScript, which will be excellent practice. Will probably take a freaking age, but that's ok.
+
+**Link to work:** :https://codepen.io/Salocin/pen/wXeYNz
