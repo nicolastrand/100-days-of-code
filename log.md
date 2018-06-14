@@ -108,3 +108,11 @@ https://www.freecodecamp.org/portfolio/nicolastrand
 **Thoughts:**: Feel good about this, actually! The next thing I want to do is to add one more box and a button which appears UNCHECKED. This means I will need to add some JavaScript, which will be excellent practice. Will probably take a freaking age, but that's ok.
 
 **Link to work:** :https://codepen.io/Salocin/pen/wXeYNz
+
+### Day 14: June 14
+
+**Today's Progress**: No progress in terms of how my project looks, but progress in terms of learning what things DON'T do, which is still progress. Joined Stackoverflow and posted my first question. It's gonna be a long road, but hopefully worth it.
+
+**Thoughts:**: Disappointed I didn't get to start on JavaScript elements, but I need to remember that I need to take baby steps with this. It took me six months to get over the hump with learning Danish - I can do this too.
+
+**Link to work:** :https://codepen.io/Salocin/pen/wXeYNz
