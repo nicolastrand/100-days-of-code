@@ -116,3 +116,19 @@ https://www.freecodecamp.org/portfolio/nicolastrand
 **Thoughts:**: Disappointed I didn't get to start on JavaScript elements, but I need to remember that I need to take baby steps with this. It took me six months to get over the hump with learning Danish - I can do this too.
 
 **Link to work:** :https://codepen.io/Salocin/pen/wXeYNz
+
+### Day 15: June 15
+
+**Today's Progress**: Zero. Waited for the nice people of Stackoverflow to get back to me.
+
+**Thoughts:**: Feel ok. Not expecting to get everything overnight but yeah, it's a tiny bit frustrating.
+
+**Link to work:** :https://codepen.io/Salocin/pen/wXeYNz
+
+### Day 16: June 16
+
+**Today's Progress**: The gods of StackOverflow came through! I made huge progress for someone of my level today. Added radio buttons to my form, and was able to determine how to style them with CSS. Also went back to HTML5 module on freecodecamp to revise past modules.
+
+**Thoughts:**: Feel good! There was one really great answer on StackOverflow which showed really clearly what I was missing, plus because people were so nice to me as a newbie, it gave me more encouragement to keep going. Only thing is, I'm not sure whether I'm doing the right thing continuing with HTML but I figure that it all helps in the end - I'll need to know that to know JavaScript. 
+
+**Link to work:** :https://codepen.io/Salocin/pen/wXeYNz
