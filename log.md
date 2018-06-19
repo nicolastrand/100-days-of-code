@@ -132,3 +132,15 @@ https://www.freecodecamp.org/portfolio/nicolastrand
 **Thoughts:**: Feel good! There was one really great answer on StackOverflow which showed really clearly what I was missing, plus because people were so nice to me as a newbie, it gave me more encouragement to keep going. Only thing is, I'm not sure whether I'm doing the right thing continuing with HTML but I figure that it all helps in the end - I'll need to know that to know JavaScript. 
 
 **Link to work:** :https://codepen.io/Salocin/pen/wXeYNz
+
+### Day 17: June 17
+
+**Today's Progress**: Forgot to log
+
+**Thoughts:**: Forgot to log
+
+### Day 16: June 16
+
+**Today's Progress**: Started back on JavaScript on Codecademy. Functions and Scopes. Did ok, but had to click solution a few times. Will have to go back and revise those modules again so they stick - a lot to take on. I also learn better in the mornings which is a challenge, as I can't really take an hour off of work to do it. 
+
+**Thoughts:**: Frustrated again. I know it's supposed to get harder but I always find that frustrating. Only downside of learning online alone is that there's no 1:1 action with a teacher or mentor.
