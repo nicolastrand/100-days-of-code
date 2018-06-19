@@ -139,7 +139,7 @@ https://www.freecodecamp.org/portfolio/nicolastrand
 
 **Thoughts:**: Forgot to log
 
-### Day 16: June 16
+### Day 18: June 19
 
 **Today's Progress**: Started back on JavaScript on Codecademy. Functions and Scopes. Did ok, but had to click solution a few times. Will have to go back and revise those modules again so they stick - a lot to take on. I also learn better in the mornings which is a challenge, as I can't really take an hour off of work to do it. 
 
