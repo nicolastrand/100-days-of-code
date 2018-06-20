@@ -144,3 +144,9 @@ https://www.freecodecamp.org/portfolio/nicolastrand
 **Today's Progress**: Started back on JavaScript on Codecademy. Functions and Scopes. Did ok, but had to click solution a few times. Will have to go back and revise those modules again so they stick - a lot to take on. I also learn better in the mornings which is a challenge, as I can't really take an hour off of work to do it. 
 
 **Thoughts:**: Frustrated again. I know it's supposed to get harder but I always find that frustrating. Only downside of learning online alone is that there's no 1:1 action with a teacher or mentor.
+
+### Day 19: June 20
+
+**Today's Progress**: Started JavaScript from the beginning tonight as I'd forgotten quite a bit of it already. Felt like I was cheating as I'd already done these, but I figured the more I go over it, the more I'll remember. 
+
+**Thoughts:**: Feel ok but not very challenged - that's ok, though. It's all part of me trying to hammer it home. 
