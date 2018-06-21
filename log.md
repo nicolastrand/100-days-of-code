@@ -150,3 +150,10 @@ https://www.freecodecamp.org/portfolio/nicolastrand
 **Today's Progress**: Started JavaScript from the beginning tonight as I'd forgotten quite a bit of it already. Felt like I was cheating as I'd already done these, but I figured the more I go over it, the more I'll remember. 
 
 **Thoughts:**: Feel ok but not very challenged - that's ok, though. It's all part of me trying to hammer it home. 
+
+
+### Day 20: June 21
+
+**Today's Progress**: More JavaScript revision tonight - same as last night. 
+
+**Thoughts:**: Feel ok, I'm definitely faster than first time round. Maddening how putting : instead of ; can mess up the code though, haha 
